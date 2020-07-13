@@ -25,7 +25,7 @@
 ▒▓▒▒▒▒▒▒▒▓
 ▒▒▓▒▒▒▒▒▓
 ```
-Hi.I'm Andi. I am a Mobile Developer 
+Hi, I'm Andi. I am a Mobile Developer - Freelancer
 <!--
 **AndiWawanK/AndiWawanK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
